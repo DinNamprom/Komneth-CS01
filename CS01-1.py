@@ -1,0 +1,1 @@
+print("Hello world from Python with Visual Studio code.")
