@@ -1,4 +1,4 @@
-A = int(input("First Number(5):"))
-B = int(input("Second Number(4):"))
+A = int(input("First Number:"))
+B = int(input("Second Number:"))
 C = A + B
-print("Equal",C)
+print("Value:",C)
