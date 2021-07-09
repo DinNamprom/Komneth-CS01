@@ -1,0 +1,16 @@
+A=100
+B=5
+C=A+B
+print("sum",C)
+A=100
+B=5
+C=A-B
+print("minus",C)
+A=100
+B=5
+C=A*B
+print("multi",C)
+A=100
+B=5
+C=A/B
+print("divide",C)
