@@ -1,1 +1,2 @@
-print("Hello Sensei")
+bruv = input()
+print(bruv)
