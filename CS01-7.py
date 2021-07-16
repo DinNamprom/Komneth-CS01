@@ -1,4 +1,4 @@
-for i in range(3):    
+for i in range(3):10    
     num = int(input("Input Number:"))
     if num <= 10:
         print("Fail")
